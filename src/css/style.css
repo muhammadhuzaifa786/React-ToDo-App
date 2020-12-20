@@ -1,0 +1,53 @@
+.bg-maroon{
+    padding-top: -50px;
+    margin: 0px auto;
+    background-color: #501b1d;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+table {
+    margin: 10px auto;
+    border: 5px solid white;
+}
+
+th,
+td {
+    border: 2px solid white;
+    margin-left: 190px;
+    margin-right: 190px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 250px;
+    text-align: center;
+}
+
+#task,
+#time {
+    width: 300px;
+    display: inline-block;
+    height: 50px;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+
+#newkey,
+#newtask,
+#newtime {
+    height: 50px;
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+
+.button {
+    margin: 0 auto;
+    padding: 10px;
+}
+
+#nothing {
+    font-size: 25px;
+}
